@@ -26,7 +26,6 @@ Displays a new random quote inside an animated card.
 
 Shows a toast message with the same quote for extra feedback.
 
-
 📱 Example Quotes
 
 Each quote comes with fun emojis for extra motivation 🎯💪
@@ -64,6 +63,7 @@ flutter run
 
 Shake your phone!
 Every shake = a brand new motivational quote 🎉
+---
 
 🧩 Kotlin Sensor Logic (Simplified)
 if (gForce > 12) {
@@ -85,5 +85,3 @@ Each shake triggers a new animated quote with a toast 💫
 
 👩‍💻 Nadia Khaled
 Flutter Developer passionate about blending Flutter with Native Android to create unique and dynamic app experiences 🚀💛
-
- 
