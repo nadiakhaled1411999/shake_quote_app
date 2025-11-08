@@ -15,7 +15,19 @@ Each time you shake your phone, a new motivational quote pops up with animation 
 🎥 Demo
 
 📱 Watch the full demo video below 👇
- 
+
+
+ [app1_20251108_040419.zip](https://github.com/user-attachments/files/23429934/app1_20251108_040419.zip)
+
+
+🖼️ Screenshots  
+
+![screen1](https://github.com/user-attachments/assets/8dbba78c-4e07-4a7b-b94d-0eb39c0cf543)
+
+![screen2](https://github.com/user-attachments/assets/d2504b9a-7b02-44bc-9a77-cd31e0b9e630)
+
+![screen3](https://github.com/user-attachments/assets/7e3ce987-36cb-4ee8-9a14-c346c6645b96)
+
 
 🔥🔥🔥
 
